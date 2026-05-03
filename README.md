@@ -1,10 +1,10 @@
 # Het Patel
 
-Cybersecurity Engineer — VAPT, Red Teaming, Bug Bounty
-Based in Ahmedabad, India
-Cybersecurity Engineer Intern at Inventyv Software Services
-B.Tech IT Graduate from BVM Engineering College
-I write at [networkshard.com](https://networkshard.com).
+- Cybersecurity Engineer — VAPT, Red Teaming, Bug Bounty
+- Based in Ahmedabad, India
+- Cybersecurity Engineer Intern at Inventyv Software Services
+- B.Tech IT Graduate from BVM Engineering College
+- I write at [networkshard.com](https://networkshard.com).
 
 ## Recognition
 
