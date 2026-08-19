@@ -19,6 +19,7 @@
 ## Recognition
 
 * CERT-In Hall of Fame — September 2025, October 2025
+* NASA Hall of fame
 * CRTA (Certified Red Team Analyst) — 2025
 * TryHackMe top 15% — [@hettt](https://tryhackme.com/p/hettt)
 
