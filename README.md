@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d74601e3-12e7-4945-8ca7-43df32d2b287"
        alt="Shard"
-       width="700">
+       width="400">
 </p>
 
 * Cybersecurity Engineer — Red Teaming · VAPT · Bug bounty
